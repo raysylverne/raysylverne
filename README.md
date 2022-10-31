@@ -1,6 +1,6 @@
-### Hi there 👋
+### Welcome to my Github👋🏽!
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+I am a U.S. Marine 🎖who transitioned to IT after serving honorably for ten years. My BAS is in Cyber Security, but cloud computing is my passion
 
 Find out more about me & feel free to connect with me here:
 
