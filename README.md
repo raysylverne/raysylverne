@@ -4,14 +4,14 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 </div>
 
-My name is Raymond Sylevrne but every calls me Ray or Slim. I am a U.S. Marine 🎖who transitioned to IT after serving honorably for ten years. My BAS is in Cyber Security, but cloud computing is my passion. 
+My name is Raymond Sylevrne but every calls me Ray or Slim. I am a U.S. Marine 🎖who transitioned to IT after serving honorably for ten years. My BAS is in Cyber Security, but cloud computing is my passion. I recently became a member of the Github community to interact and collaborate with like minded indivudlas. 
 
 Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
-[![Medium Badge](https://img.shields.io/badge/Broadus%20Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
+[![Linkedin Badge](https://www.linkedin.com/in/ray-sylverne/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
+[![Medium Badge](https://medium.com/@Ray%20Sylverne-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
 [![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
 
 ## ⚡ Technologies
