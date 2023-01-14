@@ -31,8 +31,10 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=RaySylverne&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raysylverne&hide=TeX&layout=compact)
+
+![Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=raysylverne&theme=dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raysylverne&theme=dark&show_icons=true)](https://github.com/raysylverne/github-readme-stats)
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=LevelUpInTech%2Fraysylverne&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=raysylverne%2Fraysylverne)
