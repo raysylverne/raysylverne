@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 </div>
 
-### My name is Raymond Sylverne but everyone calls me Ray or Slim. I am a U.S. Marine 🎖who transitioned to IT after serving honorably for ten years. My BAS is in Cyber Security, but cloud computing is my passion. I recently became a member of the Github community to interact and collaborate with like-minded indivduals. 
+### My name is Raymond Sylverne, but everyone calls me Ray or Slim. I have an Associate's in Networking and Bachelor's in Cyber Security, but cloud computing is my passion. After serving honorably 🎖 for ten years in the United States Marine Corps, I transitioned to Cloud Engineering. I recently became a member of the GitHub community to interact and collaborate with like-minded individuals. 
 
 ### I am interested in DevOps ∞, SecOps, and Site Reliabilty Engineering.
 
